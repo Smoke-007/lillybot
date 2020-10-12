@@ -27,14 +27,14 @@ from cinderella.modules.connection import connect_button
 
 
 PM_START_TEXT = """
-_Hi_ *{}*
+Hi {}, my name is {}! 
 _MissLillyBoT_ is most complete Bot to help you manage your groups easily and safely!_
 _add me in a supergroup and promote me as admin to let me get in action!
 
 
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
+Hi {}, my name is {}! 
 _select one of the settings that you want to change.
 
 

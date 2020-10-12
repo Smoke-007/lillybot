@@ -1,20 +1,7 @@
-### @CinderellaProBot // http://www.telegram.dog/CinderellaProBot
+### @MissLillyBot // http://www.telegram.dog/MissLillyBot
 > with HunterxHunter theme.
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
-
-<p align="center">
-  <a href="https://github.com/Sur-vivor/CinderellaProBot/fork">
-    <img src="https://img.shields.io/github/forks/Sur-vivor/CinderellaProBot?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/Sur-vivor/CinderellaProBot">
-    <img src="https://img.shields.io/github/stars/Sur-vivor/CinderellaProBot?style=social">
-  </a>
-</p>
 
 ### Click Below Image to Deploy
 [![Deploy](https://telegra.ph/file/d6189372907338f21a52b.jpg)](https://heroku.com/deploy?template=https://github.com/MainTeraHer0/lillybot.git)

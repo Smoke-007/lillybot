@@ -34,7 +34,7 @@ _add me in a supergroup and promote me as admin to let me get in action!
 
 
 HELP_STRINGS = """
-**SETTINGS**
+Hey there! My name is *{}*.
 _select one of the settings that you want to change.
 
 

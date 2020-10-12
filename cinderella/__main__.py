@@ -34,8 +34,8 @@ _add me in a supergroup and promote me as admin to let me get in action!
 
 
 HELP_STRINGS = """
-*{SETTINGS}*
-select one of the settings that you want to change.
+_BoT_ *{SETTINGS}*
+_select one of the settings that you want to change.
 
 
 
